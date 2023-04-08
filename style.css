@@ -32,3 +32,8 @@ button{
 	top: 11px;
 	left: 41.52px;
 }
+.wrapper,h2{
+	font-weight: 400px;
+	font-size: 72px;
+	line-height: 80px;
+}
