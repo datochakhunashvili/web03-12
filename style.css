@@ -52,3 +52,9 @@ button{
 	color: #ffffff;
 	margin-top: 10px;
 }
+.wrapper,p{
+	width: 470px;
+	height: 70px;
+	top: 569;
+	left: 135px;
+}
