@@ -14,3 +14,11 @@
 	margin-left: 134px;
 	top: 10px;
 }
+nav,a{
+	display: flex;
+	margin: 10px;
+	margin-left: 150px;
+/*	margin-top: -10px;*/
+	text-decoration: none;   
+	color: #FFFFFF;
+}
