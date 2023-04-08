@@ -81,3 +81,8 @@ button{
 .wrapper-wrapper{
 	float: right;
 }
+.item{
+	width: 400px;
+	height: 384px;
+	border: 1px solid black;
+}
