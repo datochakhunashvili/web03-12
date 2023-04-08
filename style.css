@@ -69,6 +69,11 @@ button{
 	background-color: #F5D3AB;
 	padding: 50px;
 }
+.second-section, img {
+	padding: 50px;
+	width: 400px;
+
+}
 .container{
 	max-width: 1200px;
 	margin: 0 auto;
