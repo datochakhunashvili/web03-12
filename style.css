@@ -93,4 +93,5 @@ button{
 	height: 416px;
 	background-color: #9EAD8D;
 	display: flex;
+	border: 1px solid black;
 }
