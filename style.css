@@ -6,3 +6,10 @@
  body {
 	background-color: #171B1B;
 }
+.logo{
+	display: block;
+/*	position: absolute;*/
+	width: 106px;
+	height:48px;
+	margin-left: 134px;
+	top: 10px;
