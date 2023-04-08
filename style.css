@@ -22,3 +22,13 @@ nav,a{
 	text-decoration: none;   
 	color: #FFFFFF;
 }
+button{
+	width: 55px;
+	height: 24px;
+	color: #FFFFFF;
+	margin: 20px;
+	margin-left: 1300px;
+	background-color: #171B1B;
+	top: 11px;
+	left: 41.52px;
+}
