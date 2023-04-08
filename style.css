@@ -15,9 +15,10 @@
 	top: 10px;
 }
 nav,a{
+	display: inline-block;
 	display: flex;
 	margin: 10px;
-	margin-left: 150px;
+/*	margin-left: 150px;*/
 /*	margin-top: -10px;*/
 	text-decoration: none;   
 	color: #FFFFFF;
@@ -57,4 +58,7 @@ button{
 	height: 70px;
 	top: 569;
 	left: 135px;
+}
+.bread{
+	float: left;
 }
