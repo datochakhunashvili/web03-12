@@ -32,8 +32,17 @@ button{
 	top: 11px;
 	left: 41.52px;
 }
+
 .wrapper,h2{
 	font-weight: 400px;
 	font-size: 72px;
 	line-height: 80px;
 }
+.wrapper,h5{
+	font-family: oswald;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 2;
+	letter-spacing: 3px;
+	text-transform: uppercase;
