@@ -68,3 +68,7 @@ button{
 .second-section{
 	background-color: #F5D3AB;
 }
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
