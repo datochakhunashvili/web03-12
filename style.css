@@ -88,3 +88,9 @@ button{
 	background-color: #FFFFFF;
 	display: flex;
 }
+.item-tasty{
+	width: 400px;
+	height: 416px;
+	background-color: #9EAD8D;
+	display: flex;
+}
