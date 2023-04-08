@@ -71,10 +71,13 @@ button{
 }
 .second-section, img {
 	padding: 50px;
-	width: 400px;
+	
 
 }
 .container{
 	max-width: 1200px;
 	margin: 0 auto;
+}
+.wrapper-wrapper{
+	float: right;
 }
