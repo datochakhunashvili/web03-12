@@ -98,3 +98,8 @@ button{
 /*	display: flex;*/
 	border: 1px solid black;
 }
+.second-3{
+	background-color: #171B1B;
+	width: 1440px;
+	height: 480px;
+}
