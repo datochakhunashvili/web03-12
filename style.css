@@ -81,17 +81,20 @@ button{
 .wrapper-wrapper{
 	float: right;
 }
+.container-1{
+	display: flex;
+}
 .item{
 	width: 400px;
 	height: 384px;
 	border: 1px solid black;
 	background-color: #FFFFFF;
-	display: flex;
+/*	display: flex;*/
 }
 .item-tasty{
 	width: 400px;
 	height: 416px;
 	background-color: #9EAD8D;
-	display: flex;
+/*	display: flex;*/
 	border: 1px solid black;
 }
