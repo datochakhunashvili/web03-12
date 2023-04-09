@@ -103,3 +103,6 @@ button{
 	width: 1440px;
 	height: 480px;
 }
+.container-2{
+	display: flex;
+}
