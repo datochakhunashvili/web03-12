@@ -75,8 +75,8 @@ button{
 
 }
 .container{
-	max-width: 1200px;
-	margin: 0 auto;
+	/*max-width: 1200px;
+	margin: 0 auto;*/
 }
 .wrapper-wrapper{
 	float: right;
