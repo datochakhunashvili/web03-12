@@ -75,8 +75,8 @@ button{
 
 }
 .container{
-	/*max-width: 1200px;
-	margin: 0 auto;*/
+	max-width: 1200px;
+	margin: 0 auto;
 }
 .wrapper-wrapper{
 	float: right;
@@ -121,7 +121,7 @@ background-color: #F5D3AB;
 }
 .section-5{
 	background-color: #171B1B;
-	top: 4592px;
+/*	top: 4592px;*/
 
 }
 .container-5{
